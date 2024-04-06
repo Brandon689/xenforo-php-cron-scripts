@@ -1,1 +1,1 @@
-scheduled tasks for xenforo to automate posting
+Scheduled tasks for xenforo to automate posting content.
